@@ -60,9 +60,9 @@ class Homepage extends StatelessWidget {
               SizedBox(
                 height: 24,
               ),
-              ListView(
-                children: [Text('Hello World')],
-              ),
+              Product(),
+              Product(),
+              Product(),
             ],
           ),
         ),
